@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    height:100vh;
+	background-image: url("../cat.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+    overflow:hidden;
+}
+h1 {
+top: 0%;
+background-color: rgba(210,105,30,0.5);
+ }
+
+
